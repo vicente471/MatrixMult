@@ -21,8 +21,7 @@ Parámetros de ejecución
 V: Verboso
 S: Silencioso
 Replicación del experimento
-Para replicar el experimento, ejecuta los 3 scripts .sh con el siguiente comando:
+Para replicar el experimento, ejecuta el script .sh con el siguiente comando:
 
 ./Experimento.sh
-Descripción del script
 El script ejecuta todos los modos de acceso utilizando las entradas desde data.txt hasta data10.txt, guardando los resultados en Resultados.txt.
